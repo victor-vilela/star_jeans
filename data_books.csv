@@ -1,0 +1,58 @@
+book_id,book_name,book_price,book_category,book_avaliable,book_stock,book_data_scrapy
+0,The Secret Garden,15.08,Classics,Four,In stock, 2022-05-23 19:38:59 
+1,The Metamorphosis,28.58,Classics,One,In stock, 2022-05-23 19:38:59 
+2,The Pilgrim's Progress,50.26,Classics,Two,In stock, 2022-05-23 19:38:59 
+3,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,Classics,Two,In stock, 2022-05-23 19:38:59 
+4,Little Women (Little Women #1),28.07,Classics,Four,In stock, 2022-05-23 19:38:59 
+5,Gone with the Wind,32.49,Classics,Three,In stock, 2022-05-23 19:38:59 
+6,Candide,58.63,Classics,Three,In stock, 2022-05-23 19:38:59 
+7,Animal Farm,57.22,Classics,Three,In stock, 2022-05-23 19:38:59 
+8,Wuthering Heights,17.73,Classics,Three,In stock, 2022-05-23 19:38:59 
+9,The Picture of Dorian Gray,29.70,Classics,Two,In stock, 2022-05-23 19:38:59 
+10,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,Classics,Four,In stock, 2022-05-23 19:38:59 
+11,Beowulf,38.35,Classics,Two,In stock, 2022-05-23 19:38:59 
+12,And Then There Were None,35.01,Classics,Two,In stock, 2022-05-23 19:38:59 
+13,The Story of Hong Gildong,43.19,Classics,Four,In stock, 2022-05-23 19:38:59 
+14,The Little Prince,45.42,Classics,Two,In stock, 2022-05-23 19:38:59 
+15,Sense and Sensibility,37.46,Classics,One,In stock, 2022-05-23 19:38:59 
+16,Of Mice and Men,47.11,Classics,Two,In stock, 2022-05-23 19:38:59 
+17,Emma,32.93,Classics,Two,In stock, 2022-05-23 19:38:59 
+18,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,Classics,One,In stock, 2022-05-23 19:38:59 
+19,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,Science,One,In stock, 2022-05-23 19:39:00 
+20,Join,35.67,Fiction,Five,In stock, 2022-05-23 19:39:00 
+21,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.30,Fiction,Four,In stock, 2022-05-23 19:39:00 
+22,The Project,10.65,Fiction,One,In stock, 2022-05-23 19:39:00 
+23,Soft Apocalypse,26.12,Fiction,Two,In stock, 2022-05-23 19:39:00 
+24,Sleeping Giants (Themis Files #1),48.74,Fiction,One,In stock, 2022-05-23 19:39:00 
+25,Arena,21.36,Fiction,Four,In stock, 2022-05-23 19:39:00 
+26,Foundation (Foundation (Publication Order) #1),32.42,Fiction,One,In stock, 2022-05-23 19:39:00 
+27,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,Fiction,One,In stock, 2022-05-23 19:39:00 
+28,Ready Player One,19.07,Fiction,Four,In stock, 2022-05-23 19:39:00 
+29,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,Fiction,Two,In stock, 2022-05-23 19:39:00 
+30,Dune (Dune #1),54.86,Fiction,One,In stock, 2022-05-23 19:39:00 
+31,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,Fiction,One,In stock, 2022-05-23 19:39:00 
+32,Three Wishes (River of Time: California #1),44.18,Fiction,Two,In stock, 2022-05-23 19:39:00 
+33,The Last Girl (The Dominion Trilogy #1),36.26,Fiction,Two,In stock, 2022-05-23 19:39:00 
+34,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,Fiction,Four,In stock, 2022-05-23 19:39:00 
+35,The Long Haul (Diary of a Wimpy Kid #9),44.07,Humor,One,In stock, 2022-05-23 19:39:01 
+36,Old School (Diary of a Wimpy Kid #10),11.83,Humor,Five,In stock, 2022-05-23 19:39:01 
+37,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,Humor,Four,In stock, 2022-05-23 19:39:01 
+38,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,Humor,Five,In stock, 2022-05-23 19:39:01 
+39,Dress Your Family in Corduroy and Denim,43.68,Humor,Three,In stock, 2022-05-23 19:39:01 
+40,Toddlers Are A**holes: It's Not Your Fault,25.55,Humor,One,In stock, 2022-05-23 19:39:01 
+41,When You Are Engulfed in Flames,30.89,Humor,Five,In stock, 2022-05-23 19:39:01 
+42,Naked,31.69,Humor,Three,In stock, 2022-05-23 19:39:01 
+43,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.50,Humor,Five,In stock, 2022-05-23 19:39:01 
+44,Holidays on Ice,51.07,Humor,Two,In stock, 2022-05-23 19:39:01 
+45,The Dirty Little Secrets of Getting Your Dream Job,33.34,Business,Four,In stock, 2022-05-23 19:39:01 
+46,The Third Wave: An Entrepreneurâs Vision of the Future,12.61,Business,Five,In stock, 2022-05-23 19:39:01 
+47,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,Business,Three,In stock, 2022-05-23 19:39:01 
+48,Shoe Dog: A Memoir by the Creator of NIKE,23.99,Business,Two,In stock, 2022-05-23 19:39:01 
+49,Made to Stick: Why Some Ideas Survive and Others Die,38.85,Business,Five,In stock, 2022-05-23 19:39:01 
+50,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,Business,One,In stock, 2022-05-23 19:39:01 
+51,The Art of Startup Fundraising,21.00,Business,Three,In stock, 2022-05-23 19:39:01 
+52,Born for This: How to Find the Work You Were Meant to Do,21.59,Business,Five,In stock, 2022-05-23 19:39:01 
+53,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,Business,One,In stock, 2022-05-23 19:39:01 
+54,"Rich Dad, Poor Dad",51.74,Business,One,In stock, 2022-05-23 19:39:01 
+55,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,Business,Three,In stock, 2022-05-23 19:39:01 
+56,Rework,44.88,Business,Two,In stock, 2022-05-23 19:39:01 
